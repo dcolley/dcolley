@@ -1,4 +1,8 @@
-## Hi there 👋
+## Derek Colley
+
+### Github Activity
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=dcolley&theme=github)
 
 <!--
 **dcolley/dcolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
